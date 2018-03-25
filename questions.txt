@@ -1,0 +1,6 @@
+Czy Polska leży w Europie? tak
+Czy 2 + 5 = 7? tak
+Czy Wisła to rzeka w Europie? tak
+Czy Polska to Hiszpania? nie
+Czy programowanie jest łatwe? nie
+Czy programowanie jest super? tak
